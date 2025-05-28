@@ -49,6 +49,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 Test Kullanıcıları
+----
 Admin
 E-Mail:admin@gmail.com
 Şifre:12345678
