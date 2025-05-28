@@ -36,7 +36,7 @@ controller klasörünün altında admin klasöründe ise admin panel için contr
 ----
 blade dosyalarım resources/views frontend-backend olarak ikiye ayrılıyor 
 ----
-Projem host/api linki  çalışıyor ,admin panel host/panel linki ile çalışıyor
+Projem host/api linki altında çalışıyor ,admin panel host/panel altında linki ile çalışıyor
 ----
 Admin panele hem admin hem kurye kullanıcıları erişiyor ikisininde erişebildiği dosyalar farklı kuryeler sadece onlara atanan sipariş sayfasını görebiliyorlar
 ---
